@@ -1,0 +1,20 @@
+ListMenu "EpisodeMenu"
+{
+    IfGame(Doom)
+    {
+        NetgameMessage "$NEWGAME"
+    }
+    IfGame(Doom)
+    {
+		//Size Clean
+        StaticPatch 70, 7, "M_EPISOD"
+        Position 0, 34
+        Linespacing 14
+        //Font "SMALLFONT2", "Gray"
+        //StaticText -109, 27, "DOOM"
+        //StaticText -127, 97, "DOOM II"
+        //StaticText -104, 139, "Final"
+		//StaticText -109, 153, "DOOM"
+        //Font "SMALLFONT2", "Red"
+    }
+}
