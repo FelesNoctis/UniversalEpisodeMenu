@@ -1,7 +1,9 @@
 # Universal Episode Menu
 ![Example Menu](https://i.imgur.com/3MPsi4Nl.png "Example Menu")  
-A flexible utility package for GZDoom to display multiple MAPINFO-changing mods together.  
-_Currently tested on **[GZDoom v4+](https://zdoom.org)** and **[Zandronum v3.1](https://zandronum.com)**_
+A utility package for GZDoom and Zandronum to display multiple MAPINFO-changing mods together.  
+_Currently tested with **[GZDoom v4+](https://zdoom.org)** and **[Zandronum v3.1](https://zandronum.com)** in a DOOM environment._
+
+[Visit us on the ZDoom forums!](https://forum.zdoom.org/viewtopic.php?f=43&t=74376)
 
 ### [DOWNLOAD](https://github.com/FelesNoctis/UniversalEpisodeMenu/releases "Download Link")  
 ![Stable Version](https://img.shields.io/github/v/release/FelesNoctis/UniversalEpisodeMenu?label=stable "Stable Version")  
