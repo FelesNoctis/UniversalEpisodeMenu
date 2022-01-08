@@ -1,7 +1,7 @@
 # Universal Episode Menu
 ![Example Menu](https://i.imgur.com/3MPsi4Nl.png "Example Menu")  
 A flexible utility package for GZDoom to display multiple MAPINFO-changing mods together.  
-_Currently only tested on **[GZDoom v4+](https://zdoom.org)**._
+_Currently tested on **[GZDoom v4+](https://zdoom.org)** and **[Zandronum v3.1](https://zandronum.com)**_
 
 ### [DOWNLOAD](https://github.com/FelesNoctis/UniversalEpisodeMenu/releases "Download Link")  
 ![Stable Version](https://img.shields.io/github/v/release/FelesNoctis/UniversalEpisodeMenu?label=stable "Stable Version")  
@@ -27,6 +27,7 @@ Universal Episode Menu's primary purpose is to provide flexible support for all 
   - TNT: Evilution
   - The Plutonia Experiment
   - Wadsmoosh, _any configuration_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=52757)) ([itch.io](https://jp.itch.io/wadsmoosh))
+  - Works of the Masters _v7_ ([itch.io](https://jp.itch.io/deluxe-master-levels))
   - The Compendium _v1.0_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=61211))
   - The Sentinel's Lexicon _v133_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=62724)) ([ModDB](https://www.moddb.com/mods/the-sentinels-lexicon))  
 &#10240;
