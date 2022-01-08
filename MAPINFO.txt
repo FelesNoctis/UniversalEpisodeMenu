@@ -56,6 +56,14 @@ episode MAP01
 	optional
 }
 
+episode level01
+{
+	picname = "M_NOREST"
+	name = "$UEM_D2E2"
+	key = "n"
+	optional
+}
+
 episode NV_MAP01
 {
 	picname = "M_NOREST"
