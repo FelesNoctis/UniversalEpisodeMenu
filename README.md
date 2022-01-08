@@ -4,7 +4,6 @@ A flexible utility package for GZDoom to display multiple MAPINFO-changing mods 
 _Currently only tested on **[GZDoom v4+](https://zdoom.org)**._
 
 ### [DOWNLOAD](https://github.com/FelesNoctis/UniversalEpisodeMenu/releases "Download Link")  
-![Download Count](https://img.shields.io/github/downloads/FelesNoctis/UniversalEpisodeMenu/total "Download Count")  
 ![Stable Version](https://img.shields.io/github/v/release/FelesNoctis/UniversalEpisodeMenu?label=stable "Stable Version")  
 ![Experimental Version](https://img.shields.io/github/v/release/FelesNoctis/UniversalEpisodeMenu?include_prereleases&label=experimental "Experimental Version")
 
