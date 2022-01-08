@@ -10,32 +10,32 @@ clearepisodes
 
 episode E1M1
 {
-	//picname = "M_EPI1"
-	name = "$TXT_D1E1"
+	picname = "M_EPI1"
+	name = "$UEM_D1E1"
 	key = "1"
 	optional
 }
 
 episode E2M1
 {
-	//picname = "M_EPI2"
-	name = "$TXT_D1E2"
+	picname = "M_EPI2"
+	name = "$UEM_D1E2"
 	key = "2"
 	optional
 }
 
 episode E3M1
 {
-	//picname = "M_EPI3"
-	name = "$TXT_D1E3"
+	picname = "M_EPI3"
+	name = "$UEM_D1E3"
 	key = "3"
 	optional
 }
 
 episode E4M1
 {
-	//picname = "M_EPI4"
-	name = "$TXT_D1E4"
+	picname = "M_EPI4"
+	name = "$UEM_D1E4"
 	key = "4"
 	optional
 }
@@ -43,47 +43,47 @@ episode E4M1
 episode E5M1
 {
 	picname = "M_EPI5"
-	name = "$HUSTR_EPI5"
+	name = "$UEM_D1E5"
 	key = "5"
 	optional
 }
 
 episode MAP01
 {
-	//picname = "M_HELL"
-	name = "$TXT_D2E1"
+	picname = "M_HELL"
+	name = "$UEM_D2E1"
 	key = "h"
 	optional
 }
 
 episode NV_MAP01
 {
-	//picname = "M_NOREST"
-	name = "$TXT_D2E2"
+	picname = "M_NOREST"
+	name = "$UEM_D2E2"
 	key = "n"
 	optional
 }
 
 episode ML_MAP01
 {
-	//picname = "M_MASTER"
-	name = "$D2MLNAME"
+	picname = "M_MASTER"
+	name = "$UEM_D2ML"
 	key = "m"
 	optional
 }
 
 episode TN_MAP01
 {
-	//picname = "M_TNT"
-	name = "$TXT_TNT_EP"
+	picname = "M_TNT"
+	name = "$UEM_D2TN"
 	key = "t"
 	optional
 }
 
 episode PL_MAP01
 {
-	//picname = "M_PLUT"
-	name = "$TXT_PLUT_EP"
+	picname = "M_PLUT"
+	name = "$UEM_D2PT"
 	key = "p"
 	optional
 }
@@ -96,18 +96,51 @@ episode PL_MAP01
 // The Compendium
 episode HUBMAP
 {
-	//picname = "M_COMPEN"
-	name = "COMP: The Compendium"
+	picname = "M_COMPEN"
+	name = "$UEM_COMPENDIUM"
 	key = "c"
 	optional
 }
 
-
 // The Sentinel's Lexicon
 episode VR
 {
-	name = "LEXI: The Sentinel's Lexicon"
+	name = "$UEM_LEXICON"
 	key = "l"
+	optional
+}
+
+// Works of the Masters: klie (starting with CPU)
+episode cpu
+{
+	name = "$UEM_MASTERSKLIE"
+	optional
+}
+// Works of the Masters: cabal (starting with bloodflood)
+episode flood
+{
+	name = "$UEM_MASTERSCABAL"
+	optional
+}
+/*
+// Works of the Masters: misc (starting with attack)
+// ISSUE: Replaces standard Master Levels entry
+episode ml_map01
+{
+	name = "$UEM_MASTERSMISC"
+	optional
+}
+*/
+// Works of the Masters: titan (starting with mines)
+episode mines
+{
+	name = "$UEM_MASTERSTITAN"
+	optional
+}
+// Works of the Masters: inferno (starting with dante25)
+episode dante25
+{
+	name = "$UEM_MASTERSINFERNO"
 	optional
 }
 
@@ -127,7 +160,7 @@ map TITLEMAP "Lexicon Opening"
 	music = "D_DM2TTL"
 }
 
-// DRLA - Kinsie's Fluff
+// Kinsie's DRLA Fluff
 map TITLEMAP "Doom RL Arsenal"
 {
    music = "STARTUPS"

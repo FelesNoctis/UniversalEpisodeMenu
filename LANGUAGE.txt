@@ -1,0 +1,26 @@
+[default]
+
+//
+// CORE EPISODES
+//
+UEM_D1E1 = "Knee-Deep in the Dead";
+UEM_D1E2 = "The Shores of Hell";
+UEM_D1E3 = "Inferno";
+UEM_D1E4 = "Thy Flesh Consumed";
+UEM_D1E5 = "Sigil";
+UEM_D2E1 = "Hell on Earth";
+UEM_D2E2 = "No Rest for the Living";
+UEM_D2ML = "The Master Levels";
+UEM_D2TN = "TNT Evilution";
+UEM_D2PT = "The Plutonia Experiment";
+
+//
+// MOD-ADDED EPISODES
+//
+UEM_COMPENDIUM = "COMP: The Compendium";
+UEM_LEXICON = "LEXI: The Sentinel's Lexicon";
+UEM_MASTERSKLIE = "Masters: Chris Klie";
+UEM_MASTERSCABAL = "Masters: Cabal";
+UEM_MASTERSMISC = "Masters: Willits, Chasar, Mustaine";
+UEM_MASTERSTITAN = "Masters: Titan";
+UEM_MASTERSINFERNO = "Masters: Inferno";
