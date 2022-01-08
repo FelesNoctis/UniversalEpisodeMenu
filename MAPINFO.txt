@@ -72,6 +72,40 @@ episode ML_MAP01
 	optional
 }
 
+// Works of the Masters: klie (starting with CPU)
+episode cpu
+{
+	name = "$UEM_MASTERSKLIE"
+	optional
+}
+// Works of the Masters: cabal (starting with bloodflood)
+episode flood
+{
+	name = "$UEM_MASTERSCABAL"
+	optional
+}
+/*
+// Works of the Masters: misc (starting with attack)
+// ISSUE: Replaces standard Master Levels entry
+episode ml_map01
+{
+	name = "$UEM_MASTERSMISC"
+	optional
+}
+*/
+// Works of the Masters: titan (starting with mines)
+episode mines
+{
+	name = "$UEM_MASTERSTITAN"
+	optional
+}
+// Works of the Masters: inferno (starting with dante25)
+episode dante25
+{
+	name = "$UEM_MASTERSINFERNO"
+	optional
+}
+
 episode TN_MAP01
 {
 	picname = "M_TNT"
@@ -107,40 +141,6 @@ episode VR
 {
 	name = "$UEM_LEXICON"
 	key = "l"
-	optional
-}
-
-// Works of the Masters: klie (starting with CPU)
-episode cpu
-{
-	name = "$UEM_MASTERSKLIE"
-	optional
-}
-// Works of the Masters: cabal (starting with bloodflood)
-episode flood
-{
-	name = "$UEM_MASTERSCABAL"
-	optional
-}
-/*
-// Works of the Masters: misc (starting with attack)
-// ISSUE: Replaces standard Master Levels entry
-episode ml_map01
-{
-	name = "$UEM_MASTERSMISC"
-	optional
-}
-*/
-// Works of the Masters: titan (starting with mines)
-episode mines
-{
-	name = "$UEM_MASTERSTITAN"
-	optional
-}
-// Works of the Masters: inferno (starting with dante25)
-episode dante25
-{
-	name = "$UEM_MASTERSINFERNO"
 	optional
 }
 
