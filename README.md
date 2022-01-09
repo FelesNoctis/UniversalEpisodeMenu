@@ -25,7 +25,7 @@ Universal Episode Menu's primary purpose is to provide flexible support for all 
   - SIGIL
   - Doom 2
   - Doom 2: No Rest for the Living
-  - Doom 2: The Master Levels
+  - Doom 2: The Master Levels (Wadsmooshed)
   - TNT: Evilution
   - The Plutonia Experiment
   - Wadsmoosh, _any configuration_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=52757)) ([itch.io](https://jp.itch.io/wadsmoosh))
