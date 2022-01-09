@@ -1,0 +1,52 @@
+//
+// MOD-ADDED EPISODES
+//
+
+// Knee-Deep in ZDoom
+episode Z1M1
+{
+	name = "$UEM_KDIZD"
+	key = "k"
+	optional
+}
+
+// The Compendium
+episode HUBMAP
+{
+	picname = "M_COMPEN"
+	name = "$UEM_COMPENDIUM"
+	key = "c"
+	optional
+}
+
+// The Sentinel's Lexicon
+episode VR
+{
+	name = "$UEM_LEXICON"
+	key = "l"
+	optional
+}
+
+
+//
+// SYSTEM-RELATED
+//
+
+defaultmap
+{
+	sucktime = 1
+}
+
+/* TITLEMAP replacements problematic as they don't detect whether or not the mod is active
+// The Sentinel's Lexicon
+map TITLEMAP "Lexicon Opening"
+{
+	music = "D_DM2TTL"
+}
+
+// Kinsie's DRLA Fluff
+map TITLEMAP "Doom RL Arsenal"
+{
+   music = "STARTUPS"
+}
+*/

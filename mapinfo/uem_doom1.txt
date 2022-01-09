@@ -1,0 +1,35 @@
+// Doom 1: Knee-Deep in the Dead
+episode E1M1
+{
+	picname = "M_EPI1"
+	name = "$UEM_D1E1"
+	key = "1"
+	optional
+}
+
+// Doom 1: The Shores of Hell
+episode E2M1
+{
+	picname = "M_EPI2"
+	name = "$UEM_D1E2"
+	key = "2"
+	optional
+}
+
+// Doom 1: Inferno
+episode E3M1
+{
+	picname = "M_EPI3"
+	name = "$UEM_D1E3"
+	key = "3"
+	optional
+}
+
+// Doom 1: Thy Flesh Consumed
+episode E4M1
+{
+	picname = "M_EPI4"
+	name = "$UEM_D1E4"
+	key = "4"
+	optional
+}

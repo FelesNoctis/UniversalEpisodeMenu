@@ -1,0 +1,8 @@
+clearepisodes
+
+include "mapinfo/uem_freedoom1.txt"
+include "mapinfo/uem_doom1sigil.txt"
+include "mapinfo/uem_freedoom2.txt"
+include "mapinfo/uem_doom2nerve.txt"
+include "mapinfo/uem_wadsmoosh.txt"
+include "mapinfo/uem_doom2community.txt"

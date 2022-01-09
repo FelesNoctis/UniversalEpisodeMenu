@@ -1,0 +1,8 @@
+// Doom 2: Hell on Earth
+episode MAP01
+{
+	//picname = "M_HELL"
+	name = "$UEM_D2E1"
+	key = "h"
+	optional
+}

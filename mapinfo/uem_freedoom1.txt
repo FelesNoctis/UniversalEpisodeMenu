@@ -1,0 +1,35 @@
+// FREEDOOM Phase 1: Outpost Outbreak
+episode E1M1
+{
+	picname = "M_EPI1"
+	name = "$UEM_FD1E1"
+	key = "1"
+	optional
+}
+
+// FREEDOOM Phase 1: Military Labs
+episode E2M1
+{
+	picname = "M_EPI2"
+	name = "$UEM_FD1E2"
+	key = "2"
+	optional
+}
+
+// FREEDOOM Phase 1: Event Horizon
+episode E3M1
+{
+	picname = "M_EPI3"
+	name = "$UEM_FD1E3"
+	key = "3"
+	optional
+}
+
+// FREEDOOM Phase 1: Double Impact
+episode E4M1
+{
+	picname = "M_EPI4"
+	name = "$UEM_FD1E4"
+	key = "4"
+	optional
+}

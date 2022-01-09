@@ -1,7 +1,9 @@
 # Universal Episode Menu
 ![Example Menu](https://i.imgur.com/3MPsi4Nl.png "Example Menu")  
-A utility package for GZDoom and Zandronum to display multiple MAPINFO-changing mods together.  
-_Currently tested with **[GZDoom v4+](https://zdoom.org)** and **[Zandronum v3.1](https://zandronum.com)** in a DOOM environment._
+A utility package for GZDoom and Zandronum to display multiple MAPINFO-changing mods together.
+
+_Full support for **[GZDoom v4+](https://zdoom.org)**_  
+_Partial support for **[Zandronum v3.1](https://zandronum.com)**_
 
 [Visit us on the ZDoom forums!](https://forum.zdoom.org/viewtopic.php?f=43&t=74376)
 
@@ -21,14 +23,13 @@ Universal Episode Menu's primary purpose is to provide flexible support for all 
 - Only displays episodes you have installed  
 &#10240;
 - **EpisodeMenu** support:
+  - Wadsmoosh, _any configuration_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=52757)) ([itch.io](https://jp.itch.io/wadsmoosh))
   - Doom Episodes 1-4
   - SIGIL
-  - Doom 2
+  - Doom 2: Hell on Earth
   - Doom 2: No Rest for the Living
-  - Doom 2: The Master Levels (Wadsmoosh)
-  - TNT: Evilution (Wadsmoosh)
-  - The Plutonia Experiment (Wadsmoosh)
-  - Wadsmoosh, _any configuration_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=52757)) ([itch.io](https://jp.itch.io/wadsmoosh))
+  - Final Doom _(Hell on Earth, TNT: Evilution, and The Plutonia Experiment are all exclusive to each other without using Wadsmoosh)_
+  - Doom 2: The Master Levels _(Wadsmoosh)_
   - Works of the Masters _v7_ ([itch.io](https://jp.itch.io/deluxe-master-levels))
   - Knee-Deep in ZDoom ([DRDTeam](https://kdizd.drdteam.org/intro.php)) ([/idgames](https://www.doomworld.com/idgames/levels/doom/Ports/megawads/kdizd_12))
   - The Compendium _v1.0_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=61211))
@@ -43,9 +44,9 @@ Universal Episode Menu's primary purpose is to provide flexible support for all 
 - Custom font, or possibly customized graphics for each item?
 
 ## Known Issues
-- **(ENGINE)** Custom episode maps that share the same name will conflict and override each other.  
-  - _**UEM** currently only provides the ability to see installed "unique" episodes/mapsets at the same time, it still assigns maps by their internal name (ex: NV_MAP01).
-A conflict list may be created as these cases are discovered._
+- **(Zandronum)** does not appear to have game filtering, and may display the wrong names for some episodes.
+  - _**MAPINFO** assigns maps by their internal name (ex: MAP01). With GZDoom's filtering, name corrections can be made based on the primary IWAD. However, in Zandronum, the following episodes will display incorrectly due to shared map filenames:_
+    - _**Hell On Earth**: TNT: Evilution, The Plutonia Experiment, FreeDOOM Phase 2_
 
 ## Something Missing?
 ### The more submissions the better! Please let me know if you discover a mapset or mod that defines a custom episode list, let me know! I'll test and add it as quickly as I can.

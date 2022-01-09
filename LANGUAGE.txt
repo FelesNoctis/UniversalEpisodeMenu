@@ -11,8 +11,17 @@ UEM_D1E5 = "Sigil";
 UEM_D2E1 = "Hell on Earth";
 UEM_D2E2 = "No Rest for the Living";
 UEM_D2ML = "The Master Levels";
-UEM_D2TN = "TNT Evilution";
+UEM_D2TN = "TNT: Evilution";
 UEM_D2PT = "The Plutonia Experiment";
+
+//
+// FREEDOOM EPISODES
+//
+UEM_FD1E1 = "Outpost Outbreak";
+UEM_FD1E2 = "Military Labs";
+UEM_FD1E3 = "Event Horizon";
+UEM_FD1E4 = "Double Impact";
+UEM_FD2E1 = "Phase 2";
 
 //
 // MOD-ADDED EPISODES

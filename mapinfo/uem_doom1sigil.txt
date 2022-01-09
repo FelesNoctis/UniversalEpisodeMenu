@@ -1,0 +1,8 @@
+// Doom 1: E5M1 (Sigil)
+episode E5M1
+{
+	picname = "M_EPI5"
+	name = "$UEM_D1E5"
+	key = "5"
+	optional
+}

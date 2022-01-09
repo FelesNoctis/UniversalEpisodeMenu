@@ -1,0 +1,8 @@
+// FREEDOOM Phase 2
+episode MAP01
+{
+	//picname = "M_HELL"
+	name = "$UEM_FD2E1"
+	key = "h"
+	optional
+}
