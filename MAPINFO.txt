@@ -146,6 +146,14 @@ episode PL_MAP01
 // MOD-ADDED EPISODES
 //
 
+// Knee-Deep in ZDoom
+episode Z1M1
+{
+	name = "$UEM_KDIZD"
+	key = "k"
+	optional
+}
+
 // The Compendium
 episode HUBMAP
 {
