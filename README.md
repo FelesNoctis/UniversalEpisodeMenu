@@ -30,6 +30,7 @@ Universal Episode Menu's primary purpose is to provide flexible support for all 
   - The Plutonia Experiment (Wadsmoosh)
   - Wadsmoosh, _any configuration_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=52757)) ([itch.io](https://jp.itch.io/wadsmoosh))
   - Works of the Masters _v7_ ([itch.io](https://jp.itch.io/deluxe-master-levels))
+  - Knee-Deep in ZDoom ([DRDTeam](https://kdizd.drdteam.org/intro.php)) ([/idgames](https://www.doomworld.com/idgames/levels/doom/Ports/megawads/kdizd_12))
   - The Compendium _v1.0_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=61211))
   - The Sentinel's Lexicon _v133_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=62724)) ([ModDB](https://www.moddb.com/mods/the-sentinels-lexicon))  
 &#10240;
