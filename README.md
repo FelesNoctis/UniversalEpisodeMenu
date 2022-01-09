@@ -28,16 +28,12 @@ Universal Episode Menu's primary purpose is to provide flexible support for all 
   - SIGIL
   - Doom 2: Hell on Earth
   - Doom 2: No Rest for the Living
-  - Final Doom _(Hell on Earth, TNT: Evilution, and The Plutonia Experiment are all exclusive to each other without using Wadsmoosh)_
-  - Doom 2: The Master Levels _(Wadsmoosh)_
+  - Final Doom _(Hell on Earth, TNT: Evilution, and The Plutonia Experiment are still exclusive to each other without using Wadsmoosh)_
+  - Doom 2: The Master Levels _(with Wadsmoosh)_
   - Works of the Masters _v7_ ([itch.io](https://jp.itch.io/deluxe-master-levels))
   - Knee-Deep in ZDoom ([DRDTeam](https://kdizd.drdteam.org/intro.php)) ([/idgames](https://www.doomworld.com/idgames/levels/doom/Ports/megawads/kdizd_12))
   - The Compendium _v1.0_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=61211))
   - The Sentinel's Lexicon _v133_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=62724)) ([ModDB](https://www.moddb.com/mods/the-sentinels-lexicon))  
-&#10240;
-- **TITLEMAP** support:
-  - The Sentinel's Lexicon _v133_ ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=62724)) ([ModDB](https://www.moddb.com/mods/the-sentinels-lexicon))
-  - Kinsie's DRLA Fluff ([ZDoom](https://forum.zdoom.org/viewtopic.php?t=64025))
 
 ## Future Plans
 - Submenus to prevent space overrun and reverting to the small text list
@@ -46,7 +42,7 @@ Universal Episode Menu's primary purpose is to provide flexible support for all 
 ## Known Issues
 - **(Zandronum)** does not appear to have game filtering, and may display the wrong names for some episodes.
   - _**MAPINFO** assigns maps by their internal name (ex: MAP01). With GZDoom's filtering, name corrections can be made based on the primary IWAD. However, in Zandronum, the following episodes will display incorrectly due to shared map filenames:_
-    - _**Hell On Earth**: TNT: Evilution, The Plutonia Experiment, FreeDOOM Phase 2_
+    - _**Hell On Earth:** TNT: Evilution, The Plutonia Experiment, FreeDOOM Phase 2_
 
 ## Something Missing?
-### The more submissions the better! Please let me know if you discover a mapset or mod that defines a custom episode list, let me know! I'll test and add it as quickly as I can.
+### The more submissions the better! Please let me know if you discover a mapset or mod that defines a custom episode list! I'll test and add it as quickly as I can.
