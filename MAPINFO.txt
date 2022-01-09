@@ -123,7 +123,7 @@ episode dante25
 	optional
 }
 
-// Doom 2: TNT Evilution
+// Doom 2: TNT Evilution (Wadsmoosh)
 episode TN_MAP01
 {
 	picname = "M_TNT"
@@ -132,7 +132,7 @@ episode TN_MAP01
 	optional
 }
 
-// Doom 2: Plutonia Experiment
+// Doom 2: Plutonia Experiment (Wadsmoosh)
 episode PL_MAP01
 {
 	picname = "M_PLUT"
