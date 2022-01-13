@@ -28,9 +28,9 @@ UEM_FD2E1 = "Phase 2";
 //
 UEM_COMPENDIUM = "COMP: The Compendium";
 UEM_LEXICON = "LEXI: The Sentinel's Lexicon";
+UEM_KDIZD = "KDiZD: Knee-Deep in ZDoom";
 UEM_MASTERSKLIE = "Masters: Chris Klie";
 UEM_MASTERSCABAL = "Masters: Cabal";
 UEM_MASTERSMISC = "Masters: Willits, Chasar, Mustaine";
 UEM_MASTERSTITAN = "Masters: Titan";
 UEM_MASTERSINFERNO = "Masters: Inferno";
-UEM_KDIZD = "Knee-Deep in ZDoom";
